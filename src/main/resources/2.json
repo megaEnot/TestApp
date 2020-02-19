@@ -1,0 +1,37 @@
+{
+  "context": {
+    "__name": "ivanushka0",
+    "fio": {
+      "lastname": "Ivanov0",
+      "middlename": "Ivanovich0",
+      "firstname": "Ivan0"
+    }
+  }
+}
+
+
+:authority: don6uwbg3rgmw.quickbpm.ru
+:method: POST
+:path: /api/v1/app/users/users/create
+:scheme: https
+accept: application/json, text/plain, */*
+accept-encoding: gzip, deflate, br
+accept-language: ru,en;q=0.9
+
+https://don6uwbg3rgmw.quickbpm.ru/pub/v1/app/users/users/create
+https://don6uwbg3rgmw.quickbpm.ru/pub/v1/app/users/users/create
+
+accept: application/json, text/plain, */*
+accept-encoding: gzip, deflate, br
+accept-language: ru,en;q=0.9
+authorization: Bearer eyJhbGciOiJSUzUxMiIsInR5cCI6IkpXVCJ9.eyJjb21wYW55IjoiZG9uNnV3YmczcmdtdyIsInVzZXJJZCI6IjY2ZTZkZDhhLTkyYjAtNDZjOS05ZTkyLTNjZTNiYWU2YzA4NCIsIm93bmVyIjp0cnVlLCJzZXNzaW9uSWQiOiJjYmEzNzJmYi0zYzFjLTQ2NGUtOTE3Ni02MWY4MTUwYTcxZGQiLCJwcml2aWxlZ2VzIjpbImFkbWluaXN0cmF0aW9uIiwic3VwZXJ2aXNvciJdLCJleHAiOjE1ODMyNjQ5OTIsImlhdCI6MTU4MjA1NTI3MiwiaXNzIjoiYXBpIn0.gm4MpYd2jAaSsXAQ7f136qTKvLpFUgBNCrxoy68cwXTDf72XZgefzhJo0uukave81xyv993sMjxdXPQWnCI05xR_E5ldFD_dTr1eTRkwiUGROoUtjYyk987kw5P6ld6fdhdzJe_8w3580DettEW4dmuAimw10eIvlWcy0jhoirStMua3AIL0HP6k367eQ5Azr3dxNz8C1llz05WYiaI48_aQwisrrXWutMy4cG7HgY8W0sCsMLklnPpcID61SKCnt-0cBH8Q-NKdQ0G4XSLTmRXPydvKWrIYCMubTPh-ydTda8FVMkjW-t4DR6_aLtJcVLwbhT8eqnWM_PAVe21Ivg
+content-length: 122
+content-type: application/json
+cookie: vtoken=eyJhbGciOiJSUzUxMiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NmU2ZGQ4YS05MmIwLTQ2YzktOWU5Mi0zY2UzYmFlNmMwODQiLCJleHAiOjE1ODMyNTc2MDQsImlhdCI6MTU4MjA0Nzk0NCwiaXNzIjoidmFodGVyIiwibmJmIjoxNTgyMDQ3OTQ0LCJzdWIiOiJ1cmJhbi5zdi4xOTg2QGdtYWlsLmNvbSJ9.iZjPs7QttPR4Y8DErVhTRtlafn6kR04jGHKMpdx6fVjPbZ4GYTh4xrGAKWgFdqcgWzGpMn-FS8wEtSuk6CsXpm0XNV7DYLMeQ99nP9ct_S3gTBMsB0WdhXzKt_Uw3VFf9rsmIloa2xoOlOGEMbRtNDjccgmhyzSCy__MSN_GNCAPf1wvYOzCXrWlMHTGrNDvUprdKu9PyeknN0kH2J1OGVz1QjuFqNHq35dkj3SWRMGGRuUVK7Dn_RVyEB7MC29KxBZH-uRVyUtPDpxJg-FXnXE3PX2wEsWTt1cC3nJbMNjPtj7FH5gpV0C6XXVRctI6O2Wyams3QmIlkimoS1aSPg
+dnt: 1
+origin: https://don6uwbg3rgmw.quickbpm.ru
+referer: https://don6uwbg3rgmw.quickbpm.ru/users/users/_api
+sec-fetch-mode: cors
+sec-fetch-site: same-origin
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 YaBrowser/19.12.3.332 (beta) Yowser/2.5 Safari/537.36
+x-requested-with: XMLHttpRequest

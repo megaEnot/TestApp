@@ -1,0 +1,10 @@
+{
+  "context": {
+    "__name": "ivan",
+    "fio": {
+    "lastname": "app.api.helper@example-lastname",
+    "middlename": "Сидорович",
+     "firstname": "Пётр"
+     }
+  }
+}
